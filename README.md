@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tellapallyakhil&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=TALLURIBALAJI&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 <!-- Animated Typing Header -->
 <p align="center">
@@ -42,7 +42,7 @@
 ---
 ## 📈 Contribution Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TALLURI BALAJI&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TALLURIBALAJI&theme=react-dark&hide_border=true" />
 </p>
 
 ---
